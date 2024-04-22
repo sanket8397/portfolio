@@ -65,11 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        Results-oriented Software Engineering graduate with 4 years of professional experience as a data analyst in the banking
+        domain. Seeking a data analyst position to contribute technical and collaborative skills for innovative solutions.{' '}
+        <a href="https://www.asu.edu/" target="_blank" rel="noreferrer">
+          ASU
         </a>
         .
       </p>
