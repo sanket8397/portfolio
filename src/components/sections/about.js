@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Java', 'React', 'Node.js', 'AWS', 'SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hey there! I'm a total tech enthusiast, always buzzing with excitement about anything computer-related.
+              I've spent years diving deep into the world of software engineering, especially in the banking scene.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I've got this knack for turning complex problems into cool solutions.
+              Whether it's coding in Python or Java, or tinkering with databases like MySQL and MongoDB, I'm all over it.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              During my time at Deutsche Bank, I led some pretty awesome projects.
+              From creating tools to make developers' lives easier to saving big bucks by optimizing processes, I've done it all.
+            </p>
+
+            <p>
+              But hey, I'm not just a coding machine. I love sharing what I know, which is why I've been helping out as a teaching assistant at Arizona State University.
+              It's been a blast guiding students and diving even deeper into the world of software design.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +166,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/Sanket.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
