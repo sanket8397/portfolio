@@ -15,7 +15,7 @@ module.exports = {
       url: 'https://www.linkedin.com/in/sanket-kapse/',
     },
     {
-      name: 'Codepen',
+      name: 'Leetcode',
       url: 'https://leetcode.com/sanket8397/',
     },
   ],
