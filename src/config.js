@@ -3,16 +3,16 @@ module.exports = {
 
   socialMedia: [
     {
+      name: 'Linkedin',
+      url: 'https://www.linkedin.com/in/sanket-kapse/',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/sanket8397',
     },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/sanket_kapse_/',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sanket-kapse/',
     },
     {
       name: 'Leetcode',
