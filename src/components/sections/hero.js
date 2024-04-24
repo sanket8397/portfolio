@@ -72,7 +72,6 @@ const Hero = () => {
         {' '} with 4 years of professional experience as a software developer in the banking domain.
         Seeking a software developer engineer position to contribute technical and collaborative skills for innovative solutions.
       </p>
-
     </>
   );
   const five = (
