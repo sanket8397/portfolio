@@ -65,13 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Results-oriented Software Engineering graduate with 4 years of professional experience as a data analyst in the banking
-        domain. Seeking a data analyst position to contribute technical and collaborative skills for innovative solutions.{' '}
+        Software Engineering graduate at {' '}
         <a href="https://www.asu.edu/" target="_blank" rel="noreferrer">
-          ASU
+          Arizona State University
         </a>
-        .
+        {' '} with 4 years of professional experience as a software developer in the banking domain.
+        Seeking a software developer engineer position to contribute technical and collaborative skills for innovative solutions.
       </p>
+
     </>
   );
   const five = (
