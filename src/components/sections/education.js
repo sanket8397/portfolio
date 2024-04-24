@@ -105,7 +105,7 @@ const CourseCard = ({ course }) => {
 
 const Education = () => {
     return (
-        <>
+        <section id="education">
             <h2 className="numbered-heading">Education</h2>
             <div className='mt-20 flex flex-col'>
                 <VerticalTimeline className='custom-timeline'>
@@ -118,7 +118,7 @@ const Education = () => {
                     ))}
                 </VerticalTimeline>
             </div>
-        </>
+        </section>
     );
 }
 
