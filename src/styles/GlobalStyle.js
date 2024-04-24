@@ -446,6 +446,11 @@ const GlobalStyle = createGlobalStyle`
   ${TransitionStyles};
 
   ${PrismStyles};
+
+  .custom-timeline::before {
+    background: #64ffda; 
+    width:2px
+  }
 `;
 
 export default GlobalStyle;
